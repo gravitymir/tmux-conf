@@ -2,16 +2,20 @@
 
 ![Tmux screen](https://raw.githubusercontent.com/gravitymir/tmux-conf/master/tmux_screen.png)
 
-## install
+##Tmux home page
+[![Tmux home page](https://github.com/tmux/tmux#welcome-to-tmux)](https://github.com/tmux/tmux#welcome-to-tmux)
+
+## install Tmux
+[![Installation](https://github.com/tmux/tmux/wiki/Installing#installing-tmuxe)](https://github.com/tmux/tmux/wiki/Installing#installing-tmux)
+
+## install on Ubuntu
+``` shell
+sudo apt install tmux
+```
+
 ``` shell
 curl https://raw.githubusercontent.com/gravitymir/tmux-conf/master/.tmux.conf > ~/.tmux.conf
-```
 
-``` shell
 curl https://raw.githubusercontent.com/gravitymir/tmux-conf/master/.tmux.conf.local > ~/.tmux.conf.local
-```
-
-``` shell
-tmux source-file ~/.tmux.conf
 ```
 
