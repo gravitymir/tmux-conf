@@ -1,4 +1,4 @@
-### tmux-conf
+# Config for Tmux
 
 ![Tmux screen](https://raw.githubusercontent.com/gravitymir/tmux-conf/master/tmux_screen.png)
 
