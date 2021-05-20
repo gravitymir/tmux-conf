@@ -1,9 +1,9 @@
-# tmux-conf
-config files for tmux
+## tmux-conf
 
 
 ![Tmux screen](https://raw.githubusercontent.com/gravitymir/tmux-conf/master/tmux_screen.png)
 
+## install
 ``` shell
 curl https://raw.githubusercontent.com/gravitymir/tmux-conf/master/.tmux.conf > ~/.tmux.conf
 ```
